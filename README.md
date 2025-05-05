@@ -1,16 +1,8 @@
 # Black-Panther-6DOF-ROBOT-ARM
-# ProjectName
 
 ProjectName and Description
 
 <!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -135,7 +127,7 @@ _您也可以在贡献者名单中参看所有参与该项目的开发者。_
 
 ### 版权说明
 
-该项目签署了 MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+该项目签署了 MIT 授权许可，详情请参阅 
 
 ### 鸣谢
 
