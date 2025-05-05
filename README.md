@@ -9,7 +9,7 @@ ProjectName and Description
 
 <p align="center">
   <a href="https://github.com/dogcome/Black-Panther-6DOF-ROBOT-ARM/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Black-Panther-3DP6DOF-ROBOT-ARM</h3>
